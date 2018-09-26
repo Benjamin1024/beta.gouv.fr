@@ -1,13 +1,13 @@
 ---
 title: PIX
 mission: Mesurez, développez et valorisez vos compétences numériques.
-link: https://pix.beta.gouv.fr
+link: https://pix.fr 
 repository: https://github.com/sgmap/pix-live
 status: construction
-contact: contact@pix.beta.gouv.fr
+contact: contact@pix.fr
 logo: /img/logos/pix.png
 start: 2016-06-08
-owner: Enseignement supérieur
+owner: Groupement d'intérêt public Pix (ministère de l'éducation nationale, ministère de l'enseignement supérieur, CNED, UOH, CNAM)
 screenshot: /img/startup/pix.jpg
 ---
 
